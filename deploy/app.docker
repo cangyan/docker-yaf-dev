@@ -1,0 +1,3 @@
+FROM newfuture/yaf:fpm
+
+WORKDIR /var/www
